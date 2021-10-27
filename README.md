@@ -1,6 +1,3 @@
 # demo-website!!
 
-
-Now editing from new branch update readme
-
-Update locally
+Updates made on master in github before rebase
